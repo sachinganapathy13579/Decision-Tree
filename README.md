@@ -13,7 +13,7 @@
 
 ## 2) A cloth manufacturing company is interested to know about the segment or attributes which causes high sale.  
 
-   About the data: 
+   Data Description : 
  
     * Sales -- Unit sales (in thousands) at each location
     * Competitor Price -- Price charged by competitor at each location
